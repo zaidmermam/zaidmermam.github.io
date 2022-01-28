@@ -97,6 +97,10 @@ section {
     transform: scale(1.1);
 }
 
+.redditlink:hover {
+    color: #FFA500;
+}
+
 .social-icons a {
     color: #fff;
     font-size: 1.7em;
