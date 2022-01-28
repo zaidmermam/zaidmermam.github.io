@@ -94,24 +94,20 @@ section {
 
 .main-btn:hover {
     background-color: #0a49f6;
-    transform: scale(1.1);
+   
 }
 .githublink:hover {
     background-color: #301934;
-    transform: scale(1.1);
 }
 .redditlink:hover {
     background-color: #FFA500;
-    transform: scale(1.1);
 }
 
 .instalink:hover {
     background-color: #800080;
-    transform: scale(1.1);
 }
 .discordlink:hover {
     background-color: #5865F2;
-    transform: scale(1.1);
 }
 
 .social-icons a {
