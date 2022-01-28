@@ -98,20 +98,20 @@ section {
 }
 .githublink:hover {
     color: #301934;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 .redditlink:hover {
     color: #FFA500;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .instalink:hover {
      color: #800080;
-     transform: scale(1.1);
+     transform: scale(1.05);
 }
 .discordlink:hover {
     background-color: #5865F2;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .social-icons a {
