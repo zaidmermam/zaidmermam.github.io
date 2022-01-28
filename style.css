@@ -93,12 +93,12 @@ section {
 }
 
 .main-btn:hover {
-    background-color: #0a49f6;
+     #0a49f6;
     transform: scale(1.1);
 }
 
 .redditlink:hover {
-    color: #FFA500;
+    background-color: #FFA500;
 }
 
 .social-icons a {
