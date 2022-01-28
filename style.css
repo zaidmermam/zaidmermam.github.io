@@ -93,7 +93,7 @@ section {
 }
 
 .main-btn:hover {
-     #0a49f6;
+    background-color: #0a49f6;
     transform: scale(1.1);
 }
 
